@@ -1,6 +1,8 @@
 # Semantic Book Recommender with LLMs
 
 This project is a semantic book recommender system that leverages large language models (LLMs) to provide book recommendations based on user queries. The system is built using various components that handle data processing, semantic search, text classification, sentiment analysis, and a user interface.
+## Overview
+![image](https://github.com/user-attachments/assets/7343b2db-33f7-459f-8bdb-23d0d76321dc)
 
 ## Components
 
